@@ -1,0 +1,5 @@
+words can be reversed
+can we reverse extra lines too?
+sure, we can reverse words, but can we reverse symbols too?
+Seems like a bit challenging!
+@$&!!?.,;:
